@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1087872022">
+    <data-source source="LOCAL" name="Rails vish1: development" uuid="573f7e0e-e430-4480-87af-50f06aecba2a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vish1_development</jdbc-url>
+      <user-name>vish1</user-name>
+      <user-password>dfc7dfd3dfdadfcbdfd9dfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails vish1: test" uuid="f4ddc3ba-d3da-435b-afdf-1aafd1b0d5ed">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vish1_test</jdbc-url>
+      <user-name>vish1</user-name>
+      <user-password>dfc7dfd3dfdadfcbdfd9dfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails vish1: production" uuid="283a15ac-b8d3-4ca1-8d07-3c923e5ff120">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:vish1_production</jdbc-url>
+      <user-name>vish1</user-name>
+      <user-password>dfc7dfd3dfdadfcbdfd9dfd9</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
